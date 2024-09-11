@@ -1,2 +1,2 @@
-data = 99
+data = 101
 console.log(data)
